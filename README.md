@@ -1,5 +1,5 @@
 <!-- Company Branding -->
-<h1 align="center">👋 Welcome to Code Nexus (Mobix)</h1>
+<h1 align="center">👋 Welcome to Mobix (Code-Nexus) </h1>
 <h3 align="center">Building software that powers people, brands & communities</h3>
 
 <p align="center">
