@@ -34,7 +34,8 @@
 ## ⚙️ Tech Stack We Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,git,github,figma,python,vscode" />
+  <!-- Organization-wide metrics using lowlighter/metrics (requires setup) -->
+  <img src="https://raw.githubusercontent.com/code-nexus-342/code-nexus-342/main/github-metrics.svg" alt="GitHub Metrics" width="90%" />
 </p>
 
 ---
